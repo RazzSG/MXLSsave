@@ -1,0 +1,150 @@
+***********   УСТАНОВКА   ***********
+
+1. Включить отображение скрытых файлов и папок
+2. Сбросить сейвы по данному пути: C:\Users\*имя пользователя*\AppData\Roaming\MedianXL\save\
+
+ПРИМЕЧАНИЕ!!!! если в свойстах сейвов нет галочки "только чтение" обязательное ёё поставьте. Это запретит любые изменения\пересохранение.
+
+*************************************
+
+
+
+***********   ОПИСАНИЕ СЕЙВОВ   ***********
+
+===========================================
+WeaponPack_one:
+
+- One-Handed Swords
+- Two-Handed Swords
+- Crystal Swords
+- One-Handed Axes
+- Two-Handed Axes
+- Hammers
+- Sceptres
+- Javelins
+- Spears
+- Scythes
+- Daggers
+- Throwing Knives
+- Throwing Axes
+- Staves
+===========================================
+WeaponPack_two:
+
+- Bows
+- Crossbows
+- Amazon Bows
+- Amazon Spears
+- Amazon Javelins
+- Assassin Claws
+- Assassin Naginatas
+- Barbarian Swords
+- Barbarian One-Handed Axes
+- Barbarian Two-Handed Axes
+- Druid Bows
+- Druid Staves
+- Necromancer Scythes
+- Necromancer Staves
+- Necromancer Daggers
+- Necromancer Crossbows
+- Necromancer Wands
+- Paladin Clubs
+- Paladin Maces
+===========================================
+WeaponPack_tri:
+
+- Paladin Hammers
+- Paladin Spears
+- Sorceress Orbs
+- Sorceress Crystal Swords
+- Samael's Weapons
+- Deity's Bow
+- Arrow Quivers
+- Crossbow Quivers
+===========================================
+ArmorPack_one:
+
+- Body Armor
+- Helms
+- Circlets
+- Special Helms
+- Shields
+- Belts
+- Gloves
+- Boots
+- Amazon Helms
+- Amazon Shields
+===========================================
+ArmorPack_two:
+
+- Assassin Shields
+- Barbarian Primal Helms
+- Barbarian Shields
+- Druid Pelts
+- Necromancer Voodoo Heads
+- Paladin Helms
+- Paladin Auric Shields
+- Sorceress Body Armor
+===========================================
+SetPack_one:
+
+- Amazon sets
+- Assassin sets
+- Barbarian sets
+===========================================
+SetPack_two:
+
+- Druid sets
+- Necromancer sets
+- Paladin sets
+===========================================
+SetPack_tri:
+- Sorceress sets
+- Other sets
+- Yshari set
+===========================================
+RwRarePack_one:
+
+- All rare weapons
+- All rare armors
+===========================================
+Charms:
+
+- All charms and trophies
+===========================================
+JewelryPack_one:
+
+- Amulets
+- Rings
+- Jewels
+- Cotws
+===========================================
+MiscPack_one:
+
+- Greater Signets of Gold
+- Arcane Cluster
+- Greater Signets of Learning
+- Belladonna Extract
+- On Rune
+- Great Runes
+- Elemental Runes
+- Perfect Gems
+- Xis Runes
+- Emblems
+- Mark of Infusion
+- Oil of Conjuration
+- Shrines
+- Unique Mystic Orbs
+- Occult Effigies
+- Charged Rifstone 1-15 lvl
+- Veteran Tokens
+- Cycles
+- Essence
+- Dimensional link
+- Kabraxis upgrade gem
+- Mind Warp
+- Abyss Gate
+- Edyrem's Time-Travel
+- Key of Lies
+- Key of Sin
+===========================================
