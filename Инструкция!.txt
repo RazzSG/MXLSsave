@@ -107,6 +107,11 @@ RwRarePack_one:
 - All rare weapons
 - All rare armors
 ===========================================
+RwPack_two:
+
+- All eth weapons
+- All eth armors
+===========================================
 Charms:
 
 - All charms and trophies
